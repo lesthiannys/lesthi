@@ -4,5 +4,11 @@ body{
 }
 footer {background-color: black;
     color: white;
+    position: fixed;
     bottom: 0;
+    width: 100%;
+}
+footer p {
+    text-align: center;
+    font-sinze: 0;6rem;
 }
